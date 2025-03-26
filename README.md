@@ -3,6 +3,7 @@
 ## Overview  
 This project focuses on performing unsupervised learning tasks on the `catalogcrosssell.csv` dataset to uncover customer shopping patterns and provide actionable business insights. 
 The goal was to identify customer clusters and understand their behaviors to help the organization tailor marketing strategies effectively. 
+This was done in a group manner. 
 
 
 ## Analysis  
@@ -11,6 +12,6 @@ I applied clustering algorithms like **K-Means** and **Hierarchical Clustering**
 Finally, we interpreted the results to provide actionable insights for the business.
 
 ## Results  
-- **Customer Segmentation**: I identified distinct customer clusters based on shopping behavior, such as high-frequency buyers and occasional shoppers.  
+- **Customer Segmentation**: I identified distinct customer clusters based on shopping behaviour, such as high-frequency buyers and occasional shoppers.  
 - **Patterns in Behavior**: Certain clusters showed strong preferences for specific product categories, enabling targeted marketing strategies.  
 - **Actionable Insights**: I recommended personalized marketing campaigns and product recommendations to improve customer engagement and sales.  
